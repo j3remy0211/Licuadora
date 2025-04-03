@@ -31,12 +31,5 @@ El **Simulador de Licuadora** es una aplicación web interactiva que permite al 
 
 ### 📂 Estructura del Proyecto
 - `index.html`: Archivo principal con la estructura de la interfaz.
-- `style.css`: Archivo de estilos para la apariencia y animaciones.
-- `script.js`: Archivo con la lógica y manipulación del DOM.
-
-## 📝 Buenas Prácticas
-- Utiliza ramas para organizar el desarrollo, como:
-  - `feature/animaciones`: Para implementar animaciones.
-  - `fix/botones`: Para corregir errores en los botones.
-- Realiza commits descriptivos frecuentemente.
-- Prueba la funcionalidad en diferentes navegadores antes del despliegue.
+- `styles.css`: Archivo de estilos para la apariencia y animaciones.
+- `main.js`: Archivo con la lógica y manipulación del DOM.
